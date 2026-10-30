@@ -1,2 +1,2 @@
 # jibcosmetico-sites
-site JIB
+site J&B
